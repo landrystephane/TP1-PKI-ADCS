@@ -1,0 +1,6 @@
+# Cles privees : ne jamais publier
+*.key
+*.pem
+# Doublons de l'archive envoyee separement
+preuves/
+*.zip
